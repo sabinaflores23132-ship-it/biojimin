@@ -1,0 +1,65 @@
+[index.html](https://github.com/user-attachments/files/22566204/index.html)
+<!DOCTYPE html> HTML>
+<HTML>
+    <TITLE>1.3 elementos de lenguaje HTML</TITLE>
+   <head> TRABAJO 2. BIOGRAFIA </head>
+   <h1>"CHINITOS BAILADORES"</h1>
+   <hr></hr>
+
+   <body>
+       <br>
+       <hr>
+       <H2>JIMIN OF BTS</H2>
+       <hr>
+       <br>
+       <p>Park Ji-min, nacido el 13 de octubre de 1995, conocido como Jimin , es un cantante, compositor y bailarín surcoreano.En 2013, debutó como miembro de la boy band surcoreana BTS , bajo el sello discográfico Big Hit Entertainment Es del clan Milyang Park. Su familia inmediata incluye a su madre, padre y hermano menor.De niño, asistió a la Escuela Primaria Hodong y a la Escuela Secundaria Yonsan de Busan.En la secundaria, asistió a la Academia Just Dance, donde aprendió popping y locking.Antes de convertirse en aprendiz, Jimin estudió danza contemporánea en la Escuela Secundaria de Artes de Busany fue uno de los mejores estudiantes del departamento de danza moderna.Un profesor le sugirió unirse a una compañía de entretenimiento, lo que lo llevó a Big Hit Entertainment .Tras aprobar las audiciones en 2012, se transfirió a la Escuela Secundaria de Artes Coreanas, donde se graduó en 2014. Jimin fue el último aprendiz de Big Hit en ser agregado a la alineación que eventualmente se convertiría en BTS. En mayo de 2019, Jimin se convirtió en el primer miembro de BTS en tener un video musical en solitario que alcanzó los 100 millones de visitas en YouTube cuando "Serendipity" superó el hito.</P>
+   
+        <img width="300" heigth="200" src="1.jpg" >
+        
+  <hr></hr>
+        <H4>SENCILLOS DE JIMIN</H4>
+       <OL>
+           <LI> Lie en 2016 </LI>
+           <LI> Serendipity en 2017</LI>
+           <LI> Filter en 2020 </LI>
+           
+       </OL>
+       <video controls width="400"> <source src="JIMINN.mp4" type="video/mp4">  </video>
+ <hr></hr>
+       <H4>Biografias de mis compañeros</H4>
+       <ul>
+           <li>santiago</li>
+           <li>sherlyn</li>
+       </ul>
+ <hr></hr>
+       <img width="300" heigth="200" src="foto.JPG" >
+       <table>
+        <tr>
+            <th>sigue su vida</th>
+            <th>link</th>
+
+        </tr>
+         <hr></hr>
+        <tr>
+            <th>sherlyn</th>
+            <th><a href="https://www.instagram.com/_lyyn8">_lyyn8</a></th>
+        </tr>
+        <tr>
+            <th>santiago</th>
+            <th><a href="https://www.instagram.com/santiagocruzvega?igsh=bjhxZnliNzJ6N2Ez">santiagocruzvega</a></th>
+        </tr><br></br>
+    </table><br></br>
+ <hr></hr>
+
+    <h3>registrate</h3>
+    <form action="imprimir.php" method="POST">
+        <label for="nombre">nombre:</label>
+        <input type="text" id="nombre" name="nombre"><br></br>
+        <label for="email">correo:</label>
+        <input type="email" id="email" name="email"><br></br>
+        <input type="submit" value="terminar"><br></br>
+    </form>
+     <hr></hr>
+   </body>
+
+</HTML>
